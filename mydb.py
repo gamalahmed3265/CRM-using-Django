@@ -1,7 +1,7 @@
 import mysql.connector
 
 database=mysql.connector.connect(
-       
+        #full your conv
 )
 
 cursorObject=database.cursor()
